@@ -1,0 +1,72 @@
+body{
+    background-image: url(https://images.wallpaperscraft.ru/image/most_doroga_zaputannyj_147527_3840x2400.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.abs { 
+      position: absolute; 
+      top: 310px; 
+      left: 800px; 
+      text-align: center; 
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 20px;
+      padding: 25px;
+      width: 200px;
+      
+      border: 3px solid #939494  ;
+    
+      background: #f0f7f7;
+      color: #050505;
+
+}
+
+ 
+.rel { 
+      position:relative; 
+      top:300px; 
+      left:300px;
+      text-align: center; 
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 20px;
+      width: 200px;
+      padding: 25px;
+
+      border: 3px solid #939494  ;
+      
+      background: #f4f8f8;
+      color: #020202;
+
+}
+
+ 
+.fix { 
+      position:fixed; 
+      top:600px; 
+      left:80px;
+      text-align: center; 
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 20px;
+      padding: 25px;
+      
+      border: 3px solid #939494  ;
+    
+      background: #f3f5f5;
+      color: #0d0d0e;
+
+}
+
+    
+.stat { 
+      position:static; 
+      text-align: center; 
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 20px;
+      width: 100px;
+      padding: 25px;
+      
+      border: 3px solid #939494  ;
+    
+      background: #ebf0f0;
+      color: #000000;
+
+}
